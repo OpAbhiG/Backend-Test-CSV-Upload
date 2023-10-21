@@ -32,12 +32,6 @@ Pagination preview
 
 
 ## To start the project in local system, write two commands in the terminal
-* npm install,
-   Then after installing all the dependencies, write
+* npm install
 * npm run dev
 
-## Contact Me
-* Email: shubhamdhiman00.sd@gmail.com
-* Instagram: @shubham_dhiman3.089
-* Twitter: https://twitter.com/shubhamdhiman78
-* Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
